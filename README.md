@@ -8,10 +8,10 @@ No trabalho dessa semana vamos alterar o projeto para que a responsividade da ho
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Sophia Nicole Ferreira Reis Gonçalves
+- Matricula: 908436
+- Proposta de projeto escolhida: 4 - Coleções e itens
+- Breve descrição sobre seu projeto: O Jardim de Flora é uma aplicação web voltada para amantes de plantas. O site reúne três funcionalidades principais: um fórum onde os usuários interagem entre si, uma página de coleções que funciona como um perfil exibindo plantas e vasos com fotos e curiosidades, e competições sazonais onde a comunidade elege as melhores plantas de cada temporada.
 
 ## Print da versão responsiva com Bootstrap [DESKTOP]
 
